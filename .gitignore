@@ -11,3 +11,10 @@ Makefile.in
 /depcomp
 /install-sh
 /missing
+stamp-h1
+.deps
+config.h.in
+config.h.in~
+Makefile
+config.log
+config.status
